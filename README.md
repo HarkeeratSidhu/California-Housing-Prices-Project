@@ -10,8 +10,6 @@ This repository contains an analysis of the California Housing Prices dataset, u
 - [Modeling](#modeling)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [References](#references)
-
 ---
 
 ## Introduction
